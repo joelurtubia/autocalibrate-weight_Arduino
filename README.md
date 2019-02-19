@@ -7,7 +7,7 @@ Arduino Board
 weight 50g for calibrate it 
 buttons
 
-
+![alt text](http://url/to/img.png)
 
 
 
